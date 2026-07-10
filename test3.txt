@@ -6,3 +6,8 @@
  * cd [git clone name add]
  * git commit -m  "[any type]"
  * git push origin main 
+
+Modify same
+   git add .
+   git commit -m ""
+   git push origin main
