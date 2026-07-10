@@ -1,0 +1,8 @@
+ Hi, I am vijayarahul and i will learn Git and Github
+
+ clone to add the this file add newly 10072026
+
+ * git clone [link paste HTTPS]
+ * cd [git clone name add]
+ * git commit -m  "[any type]"
+ * git push origin main 
